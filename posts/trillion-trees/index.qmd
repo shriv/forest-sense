@@ -1,0 +1,37 @@
+---
+title: "What forests do for us and what we do to forests"
+execute:
+  echo: false
+  message: false
+summary: ""
+author: "Shrividya Ravi"
+date: 2024-01-08
+toc: true
+categories: [forests, reading, tropical forests]
+---
+
+There is a beautiful passage in Jack Ewing's _Monkeys are made of chocolate_ which perfectly describes my rekindled teenage crush on the verdant tropics.  
+
+> *"Ever tantalizing, its (tropical rainforest) natural history is revealed only in bits and pieces, always full of surprises, begging you to look deeper. Discovering some new tidbit of sapience about the jungle doesn’t bring you any closer to knowing all there is, but simply opens more doors, each unveiling its own enticing web of knowledge."*
+
+- **_Monkeys are made of chocolate_** by Jack Ewing
+
+Luckily I have matured and my crush is now a crusade; to go deeper into the role of forests in ecology, weather, human wellbeing and how we (global human society and local communities) are changing them for better or worse. My aim, especially with this writing, is to understand how I can become an effective forest activist. A lot has changed since I was a teenager so my journey begins with reading as much as I can. 
+
+Forests, especially the vast tracts of unbroken forest known as "megaforests" (tropical forests as well as the expansive boreal) are critical for a healthy planet. This striking message runs consistently through Fred Pearce's book _A trillion trees_, and echoed by Thomas Lovejoy and Jonathan Reid in their book _Ever Green_. 
+
+Most people are aware that forests are fantastic carbon sinks since they actively siphon carbon dioxide from the atmosphere into their branches and leaves. Less known are the deep stores of carbon within the soil of the immense Taiga (the Eurasian boreal); a legacy of ancient forest layers that continue to accumulate with every tree-fall and autumn shedding. 
+
+> *"On average, 95 percent of boreal plant carbon is underground, compared with 50 percent for tropical forests. Average below ground carbon in boreal forests is somewhere between 154 and 197 metric tons per acre, up to five times the average in tropical forest soils."*
+
+- *Ever Green* by Jonathan W. Reid and Thomas E. Lovejoy 
+
+Even less known is the contribution of megaforests to weather. Large expanses of trees create both wind and rain resulting in "flying rivers" that transport moisture much further than the expected physics of transpiration over land from the seas. 
+
+The vastness of the megaforests is also their weakness. Humans don't comprehend their size so assume that any intervention is unlikely to make much difference. However, encroachment at the edges and from within are crumbling forest integrity in terms of biodiversity, resilience and structure. Targeted, large scale deforestation for crops like soy spread their rectangular grids across large tracts of plains converted from tropical forest. 
+
+More pervasive deforestation patterns are connected to transport with fishbone and radial patterns extending from the roads. These patterns fragment forests, reducing their functionality and resilience while also curbing biodiversity. Several experiments, described in *Ever Green*, have shown that forest fragmentation is an urgent environmental problem.
+
+The study of forested areas including the extent, rates and type of deforestation is now possible with remote monitoring using different types of satellite imagery. Papers abound in this domain of _remote sensing_. Widely considered the new oil of big data, it's used for all manner of intricate environmental studies. However, most papers are quite technical and due to "rainforest fatigue", a phrase from Claude Martin in his book *On the edge*, there are not as many accessible writings (that don't just equate trees as carbon sinks) available to the general public. 
+
+This blog is entitled "Forest sense". It's my small effort to condense what I read about our last bastions of expansive nature in an accessible format for any interested reader. Forests enliven our senses, and if we are sensible, we will sense the forest with all the tools at our disposal to conserve them for generations to come. Forests make sense for humanity.
